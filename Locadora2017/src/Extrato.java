@@ -49,3 +49,4 @@ public class Extrato {
 		resultado += "Voce acumulou " + pontosDeAlugadorFrequente + " pontos de alugador frequente";
 		return resultado;
 	}
+	

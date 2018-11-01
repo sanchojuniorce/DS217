@@ -1,0 +1,2 @@
+Método public String extrato() deve ser criado uma nova classe de extrato
+herdando as classes: Aluguel, Cliente, Fita.

@@ -1,0 +1,9 @@
+1 - ok
+2 - realizado fork do DS217
+3 - cd DS217/
+    git checkout -b sancho_junior
+4 - git clone https://github.com/sanchojuniorce/DS217.git
+    git tag
+5 - Criado arquivo cliente.txt
+6 - Criado Classe Extrato.java
+7 - 

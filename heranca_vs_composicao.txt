@@ -1,0 +1,31 @@
+1 - Passos executados:
+    git checkout master
+	git checkout -b dev_heranca_composicao
+
+2 - Passos executados:	
+    mkdir heranca
+    mkdir composicao
+
+3 - Criada Pasta Herança e classes: Pessoa, Tripulacao, Passageiro, Agente
+
+4 - Criada Classe Teste em herança
+
+5 - Criada função main e subclasses
+
+6 - Criada Pasta Composição
+
+7 - Criada Classe Teste em composicao
+
+8 - Criada função main
+
+9 -
+* Uso da Composição no lugar da composição: 
+    Permite mudar a associação entre classes em tempo de execução;
+    Permite que um objeto assuma mais de um comportamento;
+    Herança acopla as classes demais e engessa o programa
+
+* Efeito prático:
+	Em vez de codificar um comportamento estaticamente, definimos pequenos comportamentos padrão e usamos composição para definir comportamentos mais complexos
+
+* Nível de Acoplamento:
+   Herança: O encapsulamento entre classes e subclasses é fraco (o acoplamento é forte)

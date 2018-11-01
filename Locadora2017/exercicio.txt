@@ -1,4 +1,4 @@
-1 - ok
+1 - realizado login e consultando repositório DS217
 2 - realizado fork do DS217
 3 - cd DS217/
     git checkout -b sancho_junior
@@ -6,4 +6,5 @@
     git tag
 5 - Criado arquivo cliente.txt
 6 - Criado Classe Extrato.java
-7 - 
+7 - Realizado Push para Branch sancho_junior e Fork do DS217
+8 - Realizado pull request
